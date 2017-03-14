@@ -28,7 +28,7 @@ public class Coche implements Serializable {
 
 	private BigDecimal precio;
 
-	public Coches() {
+	public Coche() {
 	}
 
 	public String getMatricula() {
